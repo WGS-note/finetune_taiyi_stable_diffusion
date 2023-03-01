@@ -1,0 +1,2 @@
+{'1.png': 'business, logo'}
+{'2.png': 'business, logo'}
