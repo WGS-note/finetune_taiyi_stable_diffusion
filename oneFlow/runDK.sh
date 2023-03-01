@@ -1,11 +1,10 @@
 prjPath=${PWD}
 
 # 模型的缓存地址
-HF_HOME=/data/renwanxin/notebook/model/.cache/huggingface
+HF_HOME=/data/wgs/notebook/model/.cache/huggingface
 
 # hugging face的token
 HUGGING_FACE_HUB_TOKEN=XXX
-# 请换成自己的token，测试可以临时使用任万鑫的：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
 
 
 docker run --name jackoneflow --rm \
